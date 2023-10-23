@@ -25,7 +25,7 @@ Ao final do processo, os valores atualizados serão exportados para uma planilha
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=for-the-badge&logo=jupyter)
 ![Excel](https://img.shields.io/badge/-Excel-333333?style=for-the-badge&logo=microsoftexcel)
 
-## Contato
+### Contato
 
 Pesquise pelo nome de usuário ou clique nos ícones.
 
